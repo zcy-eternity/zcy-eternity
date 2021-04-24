@@ -39,7 +39,7 @@
 
 ### 关于我
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcy-eternity)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcy-eternity&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcy-eternity&show_icons=true&theme=onedark)
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 
