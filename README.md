@@ -38,7 +38,6 @@
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
 ### 关于我
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcy-eternity&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcy-eternity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
